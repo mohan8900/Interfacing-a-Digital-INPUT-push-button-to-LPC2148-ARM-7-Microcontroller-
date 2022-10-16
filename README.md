@@ -1,7 +1,7 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-Name : KRISHNA PRAKAASH D M
+Name : A K MOHAN RAJ
 
-Roll no : 212221230052
+Roll no : 212221230064
 
 Date of experiment : 3.10.22
 
